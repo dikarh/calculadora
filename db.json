@@ -1,0 +1,13 @@
+{"resultado": {
+  "data:{
+    "bussinessLine" : 1,
+    "periodicity" : 1,
+    "instalmentPay" : 1000,
+    "totalDebt" : 15000,
+    "totalCredit": 12000,
+    "interestRate": .03,
+    "idFinancialProductDeal": 1
+    },
+    "codeHttpStatus": 200
+    }
+}
