@@ -5,7 +5,7 @@
     "instalmentPay" : 1000,
     "totalDebt" : 15000,
     "totalCredit": 12000,
-    "interestRate": .03,
+    "interestRate": 0.03,
     "idFinancialProductDeal": 1
     }, 
  {
@@ -14,7 +14,7 @@
     "instalmentPay" : 2000,
     "totalDebt" : 30000,
     "totalCredit": 22000,
-    "interestRate": .03,
+    "interestRate": 0.03,
     "idFinancialProductDeal": 2
 }
     ],
